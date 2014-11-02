@@ -1,0 +1,38 @@
+{
+  "name": "codeeval-runner",
+  "version": "0.1.0",
+  "main": "lib/codeeval-runner.js",
+  "description": "CLI for running your codeeval programs",
+  "homepage": "https://github.com/creynders/codeeval-runner",
+  "bugs": "https://github.com/creynders/codeeval-runner/issues",
+  "author": {
+    "name": "Camille Reynders",
+    "email": "info@creynders.be",
+    "url": "http://www.creynders.be"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/creynders/codeeval-runner"
+  },
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "codeeval-runner",
+    "codeeval",
+    " cli",
+    " runner"
+  ],
+  "bin": {
+    "codeeval": "cli.js"
+  },
+  "preferGlobal": "true",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "lodash": "^2.4.1",
+    "must": "^0.12.0",
+    "nopt": "^3.0.1",
+    "underscore-tpl": "^0.3.3"
+  }
+}
