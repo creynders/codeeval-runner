@@ -1,4 +1,4 @@
-#  [![Build Status](https://secure.travis-ci.org/creynders/codeeval-runner.png?branch=master)](http://travis-ci.org/creynders/codeeval-runner)
+#  Codeeval runner
 
 > CLI for running your codeeval programs
 
