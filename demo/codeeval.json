@@ -1,0 +1,5 @@
+{
+  "files": {
+    "program": "<%=base%>/<%=challenge%>/solution.js"
+  }
+}
