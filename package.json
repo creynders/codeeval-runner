@@ -21,8 +21,8 @@
   "keywords": [
     "codeeval-runner",
     "codeeval",
-    " cli",
-    " runner"
+    "cli",
+    "runner"
   ],
   "bin": {
     "codeeval": "cli.js"
